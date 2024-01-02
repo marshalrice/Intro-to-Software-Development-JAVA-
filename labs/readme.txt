@@ -1,0 +1,1 @@
+These are all the lab files that I created while in my Introduction to Software Development class. Each lab covered a different topic, and most labs are already zipped together and completed, but some might be incomplete or messy. I simply copied over what I completed during the class so it can be viewable to any who is interested.
